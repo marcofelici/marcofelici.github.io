@@ -12,4 +12,4 @@ Housing, financial conditions and mental health during a pandemic.
 
 [Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978482)
 
-Recommended citation: Felici, Marco, Housing, Financial Conditions and Mental Health during a Pandemic (December 6, 2021). Available at SSRN: https://ssrn.com/abstract=3978482.
+Recommended citation: Felici, Marco (2021). Housing, Financial Conditions and Mental Health during a Pandemic. Available at SSRN: https://ssrn.com/abstract=3978482.
