@@ -11,42 +11,53 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Land Economy, University of Cambridge, 2022 (expected)
+* MSc in Economics and Finance – Advanced track, Barcelona Graduate School of Economics, 2016
+* BSc in International Economics, Management and Finance, Bocconi University, 2015
+* IB diploma, United World College Red Cross Nordic, 2012
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* University of Cambridge, Bennett Institute for Public Policy (2019-2021)
+  * Research Assistant – The Many Dimensions of Wellbeing and Wealth Economy projects
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* University of Cambridge, Department of Land Economy (2019-2020)
+  * Unestablished Teaching Associate for the MPhil in Real Estate Finance
+
+* European Central Bank, Directorate General Research (2017-2018)
+  * Trainee and then Research Analyst
+
+* IDEA 2020 (2017)
+  * Research Intern
+
+* Social Market Foundation (2016)
+  * Research Intern
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Software/programming
+  * Stata
+  * R
+  * Matlab
+  * LaTeX
+  * ECDL Advanced
+* Languages
+  * Italian (Native)
+  * English (Fluent)
+  * Spanish (Intermediate)
+  * German (Basic)
+  * French (Basic)
+  
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conference and seminar presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+European Real Estate Society Annual Conference, June 2022; ECB Mini-workshop on Household Economics, March 2022°; Fifth Annual Workshop of the ESCB Research Cluster on Monetary Economics, November 2021°; European Real Estate Society Annual Conference, June 2021; American Real Estate Society Annual Meeting, April 2020 (Cancelled due to the pandemic); Savills internal seminar, February 2020; Cambridge ESRC DTP Graduate Student Conference, October 2019; European Network for Housing Research Conference, August 2019. 
+°Presented by co-author. 
   
 Teaching
 ======
@@ -54,6 +65,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
