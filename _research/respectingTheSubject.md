@@ -2,7 +2,9 @@
 title: "Respecting the subject in subjective wellbeing public policy: Moving beyond the social planner paradigm"
 collection: publications
 permalink: /research/respectingTheSubject
-excerpt: 'With Mark Fabian, Anna Alexandrova, Diane Coyle and Matthew Agarwala. Revise & Resubmit at *Journal of European Public Policy*'
+excerpt: 'With Mark Fabian, Anna Alexandrova, Diane Coyle and Matthew Agarwala. 
+
+Revise & Resubmit at *Journal of European Public Policy*'
 date: 2021-10-01
 venue: 'Bennett Institute Working Paper Series'
 paperurl: 'https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2020/12/Respecting_the_subjective_in_subjective_wellbeing_public_policy_WP.pdf'
