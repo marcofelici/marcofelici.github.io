@@ -2,7 +2,7 @@
 title: "Education, wellbeing and levelling up"
 collection: publications
 excerpt: '[To blog post](https://www.bennettinstitute.cam.ac.uk/blog/levelling-up-swb/)'
-permalink: /research/edWellbeing
+permalink: /research/edWellbeingBlog
 date: 2020-04-20
 venue: 'Bennett Institute Blog'
 ---
