@@ -14,6 +14,7 @@ Education
 * PhD in Land Economy, University of Cambridge, 2022 (expected)
 * MSc in Economics and Finance – Advanced track, Barcelona Graduate School of Economics, 2016
 * BSc in International Economics, Management and Finance, Bocconi University, 2015
+  * Exchange Program, University of Wisconsin-Madison (Spring 2015)
 * IB diploma, United World College Red Cross Nordic, 2012
 
 Employment
