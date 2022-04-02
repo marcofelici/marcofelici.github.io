@@ -6,7 +6,7 @@ excerpt: 'Under review'
 date: 2021-12-06
 venue: 'SSRN'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978482'
-citation: 'Felici, Marco. (2021). &quot;Housing, financial conditions and mental health during a pandemic.&quot; <i>SSRN</i>.'
+citation: 'Felici, M. (2021). &quot;Housing, financial conditions and mental health during a pandemic.&quot; <i>SSRN</i>.'
 ---
 **Housing, financial conditions and mental health during a pandemic**
 
@@ -18,4 +18,4 @@ The COVID-19 pandemic has been recognised to heavily affect mental health. Becau
 
 [Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978482)
 
-Recommended citation: Felici, Marco (2021). Housing, Financial Conditions and Mental Health during a Pandemic. Available at SSRN: https://ssrn.com/abstract=3978482.
+Recommended citation: Felici, M. (2021). Housing, Financial Conditions and Mental Health during a Pandemic. Available at SSRN: https://ssrn.com/abstract=3978482.
