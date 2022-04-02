@@ -181,6 +181,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  blogPosts:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
