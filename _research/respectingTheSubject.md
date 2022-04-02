@@ -27,4 +27,4 @@ make policy decisions. We call this the ‘citizen perspective’.
 
 [Download paper here](https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2020/12/Respecting_the_subjective_in_subjective_wellbeing_public_policy_WP.pdf)
 
-Recommended citation: Fabian, M., Alexandrova, A., Coyle, D., Agarwala, M., & Felici, M. (2021). Respecting the subject in subjective wellbeing public policy: Moving beyond the social planner paradigm. Bennett Institute for Public Policy. Available at: https://ssrn.com/abstract=3978482.
+Recommended citation: Fabian, M., Alexandrova, A., Coyle, D., Agarwala, M., & Felici, M. (2021). Respecting the subject in subjective wellbeing public policy: Moving beyond the social planner paradigm. Bennett Institute for Public Policy. Available at: https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2020/12/Respecting_the_subjective_in_subjective_wellbeing_public_policy_WP.pdf.
