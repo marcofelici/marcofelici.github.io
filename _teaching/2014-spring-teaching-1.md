@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Real Estate Finance and Investment"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master course"
+permalink: /teaching/Realestatefinance
+venue: "University of Cambridge, Department of Land Economy"
+date: 2019-10-01
+location: "Cambridge, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Associate for the MPhil in Real Estate Finance. Small group supervision.
 
 Heading 1
 ======
