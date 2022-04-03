@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-***Consider supporting Ukraine at https://kse.ua/support/donation/***
+***Consider supporting Ukraine at [(https://kse.ua/support/donation/](https://kse.ua/support/donation/)***
 
 I am a PhD Candidate at the University of Cambridge, Department of Land Economy and Darwin College. My [research](https://marcofelici.github.io/research/) spans household finance, housing, subjective well-being and mental health. 
 
