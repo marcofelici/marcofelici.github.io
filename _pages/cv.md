@@ -42,7 +42,7 @@ Working papers
   
 Conference and seminar presentations
 ======
-European Real Estate Society Annual Conference, June 2022; ECB Mini-workshop on Household Economics, March 2022°; Fifth Annual Workshop of the ESCB Research Cluster on Monetary Economics, November 2021°; European Real Estate Society Annual Conference, June 2021; American Real Estate Society Annual Meeting, April 2020 (Cancelled due to the pandemic); Savills internal seminar, February 2020; Cambridge ESRC DTP Graduate Student Conference, October 2019; European Network for Housing Research Conference, August 2019.  
+European Real Estate Society Annual Conference, June 2022 (Awarded PhD Scholarship); ECB Mini-workshop on Household Economics, March 2022°; Fifth Annual Workshop of the ESCB Research Cluster on Monetary Economics, November 2021°; European Real Estate Society Annual Conference, June 2021; American Real Estate Society Annual Meeting, April 2020 (Cancelled due to the pandemic); Savills internal seminar, February 2020; Cambridge ESRC DTP Graduate Student Conference, October 2019; European Network for Housing Research Conference, August 2019.  
 °Presented by co-author. 
 
 Teaching
