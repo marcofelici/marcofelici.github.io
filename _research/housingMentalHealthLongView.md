@@ -2,7 +2,7 @@
 title: "The long view on housing tenure and mental health"
 collection: publications
 permalink: /research/housingMentalHealthLongView
-excerpt: 
+excerpt: ' '
 date: 2022-04-08
 venue: 'SSRN'
 paperurl: 'https://ssrn.com/abstract=4078586'
