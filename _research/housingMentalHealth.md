@@ -2,7 +2,7 @@
 title: "Housing, financial conditions and mental health during a pandemic"
 collection: publications
 permalink: /research/housingMentalHealth
-excerpt: 'Under review'
+excerpt: ' '
 date: 2021-12-06
 venue: 'SSRN'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978482'
