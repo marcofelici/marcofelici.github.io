@@ -10,7 +10,7 @@ paperurl: 'https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2020/12/Res
 citation: 'Fabian, M., Alexandrova, A., Coyle, D., Agarwala, M., & Felici, M. (2021). &quot;Respecting the subject in subjective wellbeing public policy: Moving beyond the social planner paradigm.&quot; <i>Bennett Institute for Public Policy</i>.'
 ---
 
-Forthcoming at the *Journal of European Public Policy*
+With Mark Fabian, Anna Alexandrova, Diane Coyle and Matthew Agarwala. Forthcoming at the *Journal of European Public Policy*
 
 There is a rising tide of advocacy for public policy to be made on the basis of ‘subjective
 wellbeing’. We argue that the vast majority of the associated policy proposals adopt the same
