@@ -34,6 +34,12 @@ Employment
 * Social Market Foundation (2016)
   * Research Intern
 
+Publications
+======
+  <ul>{% for post in site.research.pubs reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Working papers
 ======
   <ul>{% for post in site.research reversed %}
