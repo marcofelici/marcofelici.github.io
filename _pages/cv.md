@@ -36,7 +36,7 @@ Employment
 
 Publications
 ======
-  <ul>{% for post in site.research.pubs reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
