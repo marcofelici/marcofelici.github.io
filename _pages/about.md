@@ -10,7 +10,7 @@ redirect_from:
 
 ***Consider supporting Ukraine at [https://kse.ua/support/donation/](https://kse.ua/support/donation/)***
 
-I am a PhD Candidate at the University of Cambridge, Department of Land Economy and Darwin College. My [research](https://marcofelici.github.io/research/) spans household finance, housing, subjective well-being and mental health. In September, I will join the European Central Bank as a Graduate Programme participant. 
+I am a PhD Candidate at the University of Cambridge, Department of Land Economy and Darwin College. In September, I will join the European Central Bank as a Graduate Programme participant. My [research](https://marcofelici.github.io/research/) spans household finance, housing, subjective well-being and mental health. 
 
 I have worked as a Research Assistant at the Bennett Institute for Public Policy at Cambridge, as a Teaching Associate at the Department of Land Economy at Cambridge, as a Research Analyst and Trainee at DG-Research of the European Central Bank and as a Research Intern at the Social Market Foundation and at IDEA 2020. Before that, I have completed my Master's at the Barcelona School of Economics, my Bachelor's at Bocconi University and the International Baccalaureate Diploma at the United World College Red Cross Nordic. 
 
