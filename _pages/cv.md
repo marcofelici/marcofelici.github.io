@@ -9,16 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PhD in Land Economy, University of Cambridge, 2022 (expected)
-* MSc in Economics and Finance – Advanced track, Barcelona Graduate School of Economics, 2016
-* BSc in International Economics, Management and Finance, Bocconi University, 2015
-  * Exchange Program, University of Wisconsin-Madison (Spring 2015)
-* IB diploma, United World College Red Cross Nordic, 2012
-
 Employment
 ======
+
+* European Central Bank (2022-Current)
+  * Graduate Programme Participant. First year assignment: Distributional Wealth Accounts (Directorate General Statistics).
+  
 * University of Cambridge, Bennett Institute for Public Policy (2019-2021)
   * Research Assistant – The Many Dimensions of Wellbeing and Wealth Economy projects
 
@@ -34,6 +30,14 @@ Employment
 * Social Market Foundation (2016)
   * Research Intern
 
+Education
+======
+* PhD in Land Economy, University of Cambridge, 2022 (expected)
+* MSc in Economics and Finance – Advanced track, Barcelona Graduate School of Economics, 2016
+* BSc in International Economics, Management and Finance, Bocconi University, 2015
+  * Exchange Program, University of Wisconsin-Madison (Spring 2015)
+* IB diploma, United World College Red Cross Nordic, 2012
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -48,7 +52,7 @@ Working papers
   
 Conference and seminar presentations
 ======
-Health Studies User Conference, July 2022; European Real Estate Society Annual Conference, June 2022 (Awarded PhD Scholarship); ECB Mini-workshop on Household Economics, March 2022°; Fifth Annual Workshop of the ESCB Research Cluster on Monetary Economics, November 2021°; European Real Estate Society Annual Conference, June 2021; Early Career Researcher Conference, May 2021; American Real Estate Society Annual Meeting, April 2020 (Cancelled due to the pandemic); Savills internal seminar, February 2020; Cambridge ESRC DTP Graduate Student Conference, October 2019; European Network for Housing Research Conference, August 2019; Early Career Researcher Conference, May 2019.  
+10th Joint EC/OECD Workshop on Recent Developments in Business and Consumer Surveys, October 2022; Health Studies User Conference, July 2022; European Real Estate Society Annual Conference, June 2022 (Awarded PhD Scholarship); ECB Mini-workshop on Household Economics, March 2022°; Fifth Annual Workshop of the ESCB Research Cluster on Monetary Economics, November 2021°; European Real Estate Society Annual Conference, June 2021; Early Career Researcher Conference, May 2021; American Real Estate Society Annual Meeting, April 2020 (Cancelled due to the pandemic); Savills internal seminar, February 2020; Cambridge ESRC DTP Graduate Student Conference, October 2019; European Network for Housing Research Conference, August 2019; Early Career Researcher Conference, May 2019.  
 °Presented by co-author. 
 
 Teaching
