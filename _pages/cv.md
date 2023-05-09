@@ -32,7 +32,7 @@ Employment
 
 Education
 ======
-* PhD in Land Economy, University of Cambridge, 2022 (expected)
+* PhD in Land Economy, University of Cambridge, 2022
 * MSc in Economics and Finance – Advanced track, Barcelona Graduate School of Economics, 2016
 * BSc in International Economics, Management and Finance, Bocconi University, 2015
   * Exchange Program, University of Wisconsin-Madison (Spring 2015)
