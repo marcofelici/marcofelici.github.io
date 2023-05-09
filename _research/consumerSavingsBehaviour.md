@@ -6,7 +6,7 @@ excerpt: 'With Geoff Kenny and Roberta Friz. Revise & Resubmit at the *European 
 date: 2022-09-28
 venue: 'ECB Working Paper Series'
 paperurl: 'https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2736~b79d07069c.en.pdf'
-citation: 'Felici, M., Kenny, G., & Friz, R. (2022). &quot;Consumer savings behaviour at low and negative interest rates.&quot; <i>ECB Working Paper Series No 2736</i>. Revise & Resubmit at the <i>European Economic Review<i>'
+citation: 'Felici, M., Kenny, G., & Friz, R. (2022). &quot;Consumer savings behaviour at low and negative interest rates.&quot; <i>ECB Working Paper Series No 2736</i>. Revise & Resubmit at the <i>European Economic Review</i>'
 ---
 **Consumer savings behaviour at low and negative interest rates**, with Geoff Kenny and Roberta Friz. Revise & Resubmit at the *European Economic Review*
 
