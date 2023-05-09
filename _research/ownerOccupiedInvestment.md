@@ -6,7 +6,7 @@ excerpt: 'With Franz Fuerst. Revise & Resubmit at the *Journal of Housing Econom
 date: 2022-04-09
 venue: 'SSRN'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3890258'
-citation: 'Felici, M., & Fuerst, Franz (2021). &quot;The heterogeneous relationship of owner-occupied and investment property with household portfolio choice.&quot; <i>SSRN</i>. Revise & Resubmit at the <i>Journal of Housing Economics<i>'
+citation: 'Felici, M., & Fuerst, Franz (2021). &quot;The heterogeneous relationship of owner-occupied and investment property with household portfolio choice.&quot; <i>SSRN</i>. Revise & Resubmit at the <i>Journal of Housing Economics</i>'
 ---
 **The heterogeneous relationship of owner-occupied and investment property with household portfolio choice**, with Franz Fuerst. Revise & Resubmit at the *Journal of Housing Economics*
 
