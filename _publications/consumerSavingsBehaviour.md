@@ -6,7 +6,7 @@ excerpt: 'With Geoff Kenny and Roberta Friz. *European Economic Review*'
 date: 2023-06-07
 venue: 'European Economic Review'
 paperurl: 'https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2736~b79d07069c.en.pdf'
-citation: 'Felici, M., Kenny, G., & Friz, R. (forthcoming). &quot;Consumer savings behaviour at low and negative interest rates.&quot; <i>ECB Working Paper Series No 2736</i>. <i>European Economic Review</i>'
+citation: 'Felici, M., Kenny, G., & Friz, R. (forthcoming). &quot;Consumer savings behaviour at low and negative interest rates.&quot; <i>European Economic Review</i>'
 ---
 **Consumer savings behaviour at low and negative interest rates**, with Geoff Kenny and Roberta Friz. *European Economic Review*
 
