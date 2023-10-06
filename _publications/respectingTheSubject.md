@@ -7,7 +7,7 @@ excerpt: 'With Mark Fabian, Anna Alexandrova, Diane Coyle and Matthew Agarwala.
 date: 2022-06-27
 venue: 'Journal of European Public Policy'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2093947'
-citation: 'Fabian, M., Alexandrova, A., Coyle, D., Agarwala, M., & Felici, M. (2022). &quot;Respecting the subject in wellbeing public policy: beyond the social planner perspective.&quot; <i>Journal of European Public Policy</i>.'
+citation: 'Fabian, M., Alexandrova, A., Coyle, D., Agarwala, M., & Felici, M. (2023). &quot;Respecting the subject in wellbeing public policy: beyond the social planner perspective.&quot; <i>Journal of European Public Policy</i>, 30:8, 1494-1517.'
 ---
 
 With Mark Fabian, Anna Alexandrova, Diane Coyle and Matthew Agarwala. *Journal of European Public Policy*
@@ -20,4 +20,4 @@ We compare and evaluate two competing paradigms in the ‘wellbeing public polic
 
 [Working paper version](https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2020/12/Respecting_the_subjective_in_subjective_wellbeing_public_policy_WP.pdf)
 
-Recommended citation: Fabian, M., Alexandrova, A., Coyle, D., Agarwala, M., & Felici, M. (2022). Respecting the subject in wellbeing public policy: beyond the social planner perspective. Journal of European Public Policy. Available at: https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2093947
+Recommended citation: Fabian, M., Alexandrova, A., Coyle, D., Agarwala, M., & Felici, M. (2023). Respecting the subject in wellbeing public policy: beyond the social planner perspective. *Journal of European Public Policy*, 30:8, 1494-1517.
