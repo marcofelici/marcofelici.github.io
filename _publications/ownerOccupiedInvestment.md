@@ -18,4 +18,6 @@ The dual nature of property as both a consumption and investment good presents a
 
 [Download paper here](https://doi.org/10.1016/j.jhe.2023.101964)
 
+[Working paper version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3890258)
+
 Recommended citation: Felici, M., & Fuerst, F. (2023). The heterogeneous relationship of owner-occupied and investment property with household portfolio choice. *Journal of Housing Economics*, 62, 101964.
