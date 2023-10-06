@@ -9,17 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Employment
+Employment, consultancies and affiliations
 ======
 
+* University of Cambridge, Bennett Institute for Public Policy (2023-Current)
+  * Affiliated Researcher
+
 * European Central Bank (2022-Current)
-  * Graduate Programme Participant. First year assignment: Distributional Wealth Accounts (Directorate General Statistics).
-  
+  * Graduate Programme Participant. Second year assignment: Securitisations (Directorate General Horizontal Line Supervision). First year assignment: Distributional Wealth Accounts (Directorate General Statistics).
+
+* Spark Wave (2019-2022)
+  * Statistician    
+
 * University of Cambridge, Bennett Institute for Public Policy (2019-2021)
   * Research Assistant – The Many Dimensions of Wellbeing and Wealth Economy projects
 
 * University of Cambridge, Department of Land Economy (2019-2020)
   * Unestablished Teaching Associate for the MPhil in Real Estate Finance
+ 
+* Bruegel
+  * Rapporteur for the 5th Triennial Review
 
 * European Central Bank, Directorate General Research (2017-2018)
   * Trainee and then Research Analyst
