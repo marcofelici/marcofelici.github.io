@@ -27,7 +27,7 @@ Employment, consultancies and affiliations
 * University of Cambridge, Department of Land Economy (2019-2020)
   * Unestablished Teaching Associate for the MPhil in Real Estate Finance
  
-* Bruegel
+* Bruegel (2019)
   * Rapporteur for the 5th Triennial Review
 
 * European Central Bank, Directorate General Research (2017-2018)
