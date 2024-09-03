@@ -16,7 +16,8 @@ Employment, consultancies and affiliations
   * Affiliated Researcher
 
 * European Central Bank (2022-Current)
-  * Graduate Programme Participant. Second year assignment: Securitisations (Directorate General Horizontal Line Supervision). First year assignment: Distributional Wealth Accounts (Directorate General Statistics).
+  * Economist-Statistician (2024-Current). Household surveys team (Directorate General Statistics).
+  * Graduate Programme Participant (2022-2024). First year assignment: Distributional Wealth Accounts (Directorate General Statistics). Second year assignment: Securitisations (Directorate General Horizontal Line Supervision). 
 
 * Spark Wave (2019-2022)
   * Statistician    
