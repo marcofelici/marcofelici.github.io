@@ -16,4 +16,4 @@ Advocacy for ‘wellbeing public policy’ (WPP) requires suitable evidence. End
 
 [Download paper here](https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/2691/1225)
 
-Recommended citation: Fabian, M., Agarwala, M., Alexandrova, A., Coyle, D., & Felici, M. (2021). Wellbeing Public Policy Needs More Theory. *InternationalJournal of Wellbeing*. 14(3), 2691, 1-17. Available at: https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/2691/1225.
+Recommended citation: Fabian, M., Agarwala, M., Alexandrova, A., Coyle, D., & Felici, M. (2021). Wellbeing Public Policy Needs More Theory. *International Journal of Wellbeing*. 14(3), 2691, 1-17. Available at: https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/2691/1225.
