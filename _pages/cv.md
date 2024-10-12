@@ -12,12 +12,12 @@ redirect_from:
 Employment, consultancies and affiliations
 ======
 
-* University of Cambridge, Bennett Institute for Public Policy (2023-Current)
-  * Affiliated Researcher
-
 * European Central Bank (2022-Current)
-  * Economist-Statistician (2024-Current). Household surveys team (Directorate General Statistics).
-  * Graduate Programme Participant (2022-2024). First year assignment: Distributional Wealth Accounts (Directorate General Statistics). Second year assignment: Securitisations (Directorate General Horizontal Line Supervision). 
+  * Economist-Statistician (2024-Current). Household surveys (Directorate General Statistics).
+  * Graduate Programme Participant (2022-2024). First year assignment: Distributional Wealth Accounts (Directorate General Statistics). Second year assignment: Securitisations (Directorate General Horizontal Line Supervision).
+    
+* University of Cambridge, Bennett Institute for Public Policy (2023-Current)
+  * Affiliated Researcher 
 
 * Spark Wave (2019-2022)
   * Statistician    
