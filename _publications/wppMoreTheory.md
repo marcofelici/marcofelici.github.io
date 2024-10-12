@@ -3,10 +3,10 @@ title: "Wellbeing public policy needs more theory"
 collection: publications
 permalink: /publications/wppMoreTheory
 excerpt: 'With Mark Fabian, Anna Alexandrova, Diane Coyle and Matthew Agarwala. *International Journal of Wellbeing*'
-date: 2022-04-08
+date: 2022-06-28
 venue: 'International Journal of Wellbeing'
 paperurl: 'https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/2691/1225'
-citation: 'Fabian, M., Alexandrova, A., Coyle, D., Agarwala, M., & Felici, M. (Forthcoming). &quot;Wellbeing public policy needs more theory. &quot; <i>International Journal of Wellbeing</i>. 14(3), 2691, 1-17'
+citation: 'Fabian, M., Alexandrova, A., Coyle, D., Agarwala, M., & Felici, M. (2024). &quot;Wellbeing public policy needs more theory. &quot; <i>International Journal of Wellbeing</i>. 14(3), 2691, 1-17'
 ---
 **Wellbeing public policy needs more theory**, with Mark Fabian, Anna Alexandrova, Diane Coyle and Matthew Agarwala. *International Journal of Wellbeing*
 
@@ -16,4 +16,4 @@ Advocacy for ‘wellbeing public policy’ (WPP) requires suitable evidence. End
 
 [Download paper here](https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/2691/1225)
 
-Recommended citation: Fabian, M., Agarwala, M., Alexandrova, A., Coyle, D., & Felici, M. (2021). Wellbeing Public Policy Needs More Theory. *International Journal of Wellbeing*. 14(3), 2691, 1-17. Available at: https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/2691/1225.
+Recommended citation: Fabian, M., Agarwala, M., Alexandrova, A., Coyle, D., & Felici, M. (2024). Wellbeing Public Policy Needs More Theory. *International Journal of Wellbeing*. 14(3), 2691, 1-17. Available at: https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/2691/1225.
